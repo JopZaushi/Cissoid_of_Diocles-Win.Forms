@@ -1,0 +1,3 @@
+D:\Program Files (x86)\programs\Practic_two\Practic_two\Debug\Practic_two.vcxproj.AssemblyReference.cache
+D:\Program Files (x86)\programs\Practic_two\Practic_two\Debug\Practictwo.MyForm.resources
+D:\Program Files (x86)\programs\Practic_two\Practic_two\Debug\Practic_two.vcxproj.GenerateResource.cache
